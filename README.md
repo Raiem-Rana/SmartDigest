@@ -4,7 +4,7 @@
 
 **100% offline analysis — no API keys, no rate limits, no external AI service required.**
 
-🔗 **Live demo:** _[add your Streamlit Cloud link here after deploying]_
+🔗 **Live demo:** ## [🚀 Launch SmartDigest](https://smartdigest-mywcydmdmappbyz3df6sedh.streamlit.app/?utm_source=chatgpt.com)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
