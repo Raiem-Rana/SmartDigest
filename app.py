@@ -1,4 +1,8 @@
 """
+import nltk
+
+nltk.download("punkt")
+nltk.download("punkt_tab")
 app.py
 ------
 SmartDigest — Offline Article & News Key-Points Extractor
